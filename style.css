@@ -115,3 +115,9 @@ footer {
     justify-content: center;
     color: white;
 }
+.header_left h1:hover {
+    background-color: aquamarine;
+    transition-property: background-color;
+    transition-duration:1s;
+
+}
